@@ -6,17 +6,17 @@
     <title>Sistemon</title>
 </head>
 <body>
-    <h1>Bien vemidos al proyecto de</h1>
+    <h1>Bienvenidos al proyecto CodeX</h1>
     <br>
     <img src="./equipo.jpg" alt="Imagen del equipo" width="150px" height="150px">
     <br>
     <h2>Integrantes</h2>
     <ul>
-        <li><a href="./angel.dock">Descarga el cv de Ángel cruz</a></li>
-        <li><a href="./saul.dock">Descarga el cv de Saul de la cruz</a></li>
-        <li><a href="./jehovani.dock">Descarga el cv de Jehovani de la cruz</a></li>
-        <li><a href="./cesar.dock">Descarga el cv de Cesar de la cruz</a></li>
-        <li><a href="./juan.dock">Descarga el cv de Juan de la cruz</a></li>
+        <li><a href="./angel.docx">Descarga el cv de Ángel cruz</a></li>
+        <li><a href="./saul.docx">Descarga el cv de Saul de la cruz</a></li>
+        <li><a href="./jehovani.docx">Descarga el cv de Jehovani Santiago</a></li>
+        <li><a href="./cesar.docx">Descarga el cv de Cesar Núñez</a></li>
+        <li><a href="./juan.docx">Descarga el cv de Juan Sánchez</a></li>
     </ul>
     
     <link rel="stylesheet" href="Descargar el link de descarga del cv">
